@@ -1,11 +1,30 @@
 [
     {
-        "AS": "Asia",
-        "AF": "Africa",
-        "EU": "Europe",
-        "NA": "North America",
-        "SA": "South America",
-        "OC": "Austraria/Oceania",
-        "AN": "Antarctica"
+        "iso": "AS",
+        "name": "Asia"
+    },
+    {
+        "iso": "AF",
+        "name": "Africa"
+    },
+    {
+        "iso": "EU",
+        "name": "Europe"
+    },
+    {
+        "iso": "NA",
+        "name": "North America"
+    },
+    {
+        "iso": "SA",
+        "name": "South America"
+    },
+    {
+        "iso": "OC",
+        "name": "Austraria/Oceania"
+    },
+    {
+        "iso": "AN",
+        "name": "Antarctica"
     }
 ]
